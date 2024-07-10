@@ -16,7 +16,6 @@
 <br>
 <div>
     <h2 align="left"> 🎩 - 𝐀𝐛𝐨𝐮𝐭𝐌𝐞 - 🎩 </h2>
-    <img src="https://giffiles.alphacoders.com/222/222102.gif" align="right">
 
 📅 Stats ```Python / HTML / CSS / Hack The Box / Root Me```
 
